@@ -11,7 +11,7 @@ A Streamlit-based web application that uses AI to classify products into Harmoni
 
 ## 🚀 Live Demo
 
-🔗 **Deployed on Azure**: [Your Azure URL will be here]
+🔗 **Deployed on Azure**: https://hs-code-classifier-dsetahfee3gfh9cv.centralindia-01.azurewebsites.net
 
 ## 📋 Prerequisites
 
