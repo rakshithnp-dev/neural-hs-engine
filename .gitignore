@@ -31,6 +31,10 @@ venv.bak/
 .DS_Store
 Thumbs.db
 
+# Deployment artifacts
+deploy.zip
+*.zip
+
 # Logs
 *.log
 
